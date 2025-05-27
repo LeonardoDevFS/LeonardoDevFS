@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome Aqui] 👋
+# Olá, eu sou Leonardo! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Idade-22_anos-blue" alt="Idade: 22 anos">
@@ -25,7 +25,7 @@ Atualmente, estou em busca de uma **nova oportunidade profissional como Analista
 
 ## 🛠️ Minhas Habilidades e Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência (sinta-se à vontade para adicionar ou remover conforme sua vivência):
 
 ### Como Analista de Suporte:
 * **Sistemas de Gestão Hospitalar (Experiência na SYRIUS MEDICAL GROUP):**
@@ -34,24 +34,79 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
     * `EPACS`
 * **Monitoramento e Infraestrutura:**
     * `ZABBIX`
-* **Outras Ferramentas e Conhecimentos:**
-    * [Adicione aqui outras ferramentas de suporte que você domina, ex: JIRA, Zendesk, ITIL, etc.]
-    * Diagnóstico e Resolução de Problemas
-    * Suporte Técnico Nível 1 e 2
-    * Atendimento ao Cliente
-    * Gerenciamento de Chamados
+    * `Grafana`
+    * `Prometheus`
+* **Sistemas de Ticketing e Gestão de Serviços:**
+    * `JIRA Service Management`
+    * `Zendesk`
+    * `ServiceNow`
+    * `GLPi`
+* **Ferramentas de Acesso Remoto e Suporte:**
+    * `TeamViewer`
+    * `AnyDesk`
+    * `LogMeIn`
+    * `Microsoft Remote Desktop`
+* **Sistemas Operacionais:**
+    * `Windows (Client/Server)`
+    * `Linux (Ubuntu, CentOS - básico/intermediário)`
+* **Redes:**
+    * `Conceitos TCP/IP`
+    * `Troubleshooting DNS, DHCP`
+* **Bancos de Dados (para consulta e diagnóstico):**
+    * `SQL (consultas básicas/intermediárias em MySQL, SQL Server, PostgreSQL)`
+* **Outros Conhecimentos e Práticas:**
+    * `Metodologia ITIL (Foundation)`
+    * `Criação e Manutenção de Documentação Técnica / FAQs`
+    * `Diagnóstico e Resolução de Problemas de Hardware e Software`
+    * `Suporte Técnico Nível 1, 2 e 3`
+    * `Excelente Atendimento ao Cliente`
+    * `Gerenciamento de Chamados e SLAs`
 
 ### Como Desenvolvedor:
-* **Linguagens e Frameworks:**
-    * `Node.JS`
+* **Linguagens de Programação:**
+    * `JavaScript (ES6+)`
     * `TypeScript`
+    * `Node.JS`
     * `PHP`
+    * `Python`
+    * `Java`
+    * `C#`
+* **Frameworks e Bibliotecas Backend:**
+    * `Express.js` (para Node.JS)
+    * `Laravel`, `Symfony` (para PHP)
+    * `Django`, `Flask` (para Python)
+    * `Spring Boot` (para Java)
+    * `.NET Core / .NET 5+` (para C#)
+* **Frameworks e Bibliotecas Frontend:**
+    * `HTML5`
+    * `CSS3` (Sass/Less)
+    * `React`
+    * `Angular`
+    * `Vue.js`
 * **Desenvolvimento de Chatbots:**
-    * Integração com APIs diversas (ex: [Cite aqui alguma API famosa que usou, como Dialogflow, IBM Watson, etc., ou mantenha genérico])
-    * Fluxos de Conversa
-* **Outras Ferramentas e Conhecimentos:**
-    * `Git` / `GitHub`
-    * [Adicione aqui outras tecnologias de desenvolvimento, ex: SQL, NoSQL, Docker, React, Angular, etc.]
+    * `Integração com APIs (Dialogflow, IBM Watson, Microsoft Bot Framework, Rasa, etc.)`
+    * `Criação de Fluxos de Conversa e NLU`
+* **Bancos de Dados:**
+    * **SQL:** `MySQL`, `PostgreSQL`, `SQL Server`, `Oracle`
+    * **NoSQL:** `MongoDB`, `Redis`, `Firebase Realtime Database/Firestore`
+* **Controle de Versão:**
+    * `Git`
+    * `GitHub`, `GitLab`, `Bitbucket`
+* **APIs e Web Services:**
+    * `Desenvolvimento e Consumo de APIs RESTful`
+    * `GraphQL (básico)`
+* **Cloud Computing (Básico/Intermediário):**
+    * `AWS (EC2, S3, Lambda)`
+    * `Azure (App Services, Functions)`
+    * `Google Cloud Platform (Compute Engine, Cloud Functions)`
+* **Containers e Orquestração (Básico):**
+    * `Docker`
+    * `Kubernetes (conceitos)`
+* **Ferramentas de Desenvolvimento e Testes:**
+    * `VS Code`, `IntelliJ IDEA`, `PHPStorm`
+    * `Postman`, `Insomnia` (para testes de API)
+    * `Jest`, `Mocha`, `Cypress` (para testes de software)
+    * `Práticas de CI/CD (conceitos)`
 
 ---
 
@@ -60,7 +115,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 Estou sempre buscando expandir meus conhecimentos! Atualmente, meu foco está em:
 * Aprofundar meus estudos em **Análise e Desenvolvimento de Sistemas**.
 * Preparar-me para os desafios da **Engenharia de Software**.
-* [Opcional: Adicione aqui alguma tecnologia ou área específica que esteja estudando por conta própria, ex: Cloud Computing (AWS/Azure), Automação de Processos (RPA), etc.]
+* [Opcional: Adicione aqui alguma tecnologia ou área específica que esteja estudando por conta própria, ex: Microsserviços, Segurança da Informação, Machine Learning, etc.]
 
 ---
 
