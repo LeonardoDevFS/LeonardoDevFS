@@ -115,14 +115,13 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 Estou sempre buscando expandir meus conhecimentos! Atualmente, meu foco está em:
 * Aprofundar meus estudos em **Análise e Desenvolvimento de Sistemas**.
 * Preparar-me para os desafios da **Engenharia de Software**.
-* [Opcional: Adicione aqui alguma tecnologia ou área específica que esteja estudando por conta própria, ex: Microsserviços, Segurança da Informação, Machine Learning, etc.]
 
 ---
 
 ## 📫 Como me Encontrar
 
-* **LinkedIn:** [Seu Link do LinkedIn Aqui]
-* **Email:** [Seu Email de Contato Aqui]
-* **GitHub:** [Você já está aqui! Mas pode colocar o link do seu perfil se quiser: `github.com/SEU_USUARIO`]
+* **LinkedIn:** [https://www.linkedin.com/in/leonardo2002/]
+* **Email:** [leonardocarmo941@gmail.com ou leonardoperfilprofissional@gmail.com]
+* **GitHub:** [https://github.com/leosonicx ou https://github.com/LeonardoDevFS]
 
 Obrigado pela visita ao meu perfil! Sinta-se à vontade para entrar em contato. 😊
