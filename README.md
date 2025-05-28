@@ -16,7 +16,7 @@ Com 22 anos, trago uma combinação de formação técnica e experiência práti
 * 💼 **Trabalho:** Analista de Redes.
 * 👨‍💻 **Cursando:** Profissionalizante em Engenharia Front-End na Escola Britânica de Artes Criativas e Tecnologia.
 * 🎓 **Formado:** Técnico em Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais/Universidade Cesumar.
-* 👨‍💻 **Cursando:** Tecnólogo em Análise e Desenvolvimento de Sistemas Na Universidade Cesumar.
+* 👨‍💻 **Cursando:** Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cesumar.
 * 🎯 **Próximo Passo:** Em breve iniciarei minha jornada na Engenharia de Software!
 
 
