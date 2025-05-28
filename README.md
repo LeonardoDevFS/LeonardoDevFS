@@ -13,7 +13,7 @@ Sou um profissional de tecnologia apaixonado por solucionar problemas e desenvol
 
 Com 22 anos, trago uma combinação de formação técnica e experiência prática:
 
-* 💼 **Trabalho:**Analista de Redes.
+* 💼 **Trabalho:** Analista de Redes.
 * 🎓 **Formado:** Técnico em Desenvolvimento de Sistemas.
 * 👨‍💻 **Cursando:** Tecnólogo em Análise e Desenvolvimento de Sistemas.
 * 🎯 **Próximo Passo:** Em breve iniciarei minha jornada na Engenharia de Software!
