@@ -13,11 +13,11 @@ Sou um profissional de tecnologia apaixonado por solucionar problemas e desenvol
 
 Com 22 anos, trago uma combinação de formação técnica e experiência prática:
 
+* 💼 **Trabalho:**Analista de Redes.
 * 🎓 **Formado:** Técnico em Desenvolvimento de Sistemas.
 * 👨‍💻 **Cursando:** Tecnólogo em Análise e Desenvolvimento de Sistemas.
 * 🎯 **Próximo Passo:** Em breve iniciarei minha jornada na Engenharia de Software!
-* 
-* 💼 **Trabalho:**Analista de Redes.
+
 
 Tenho um vasto conhecimento como **Analista de Suporte**, com vivência em ambientes dinâmicos e foco na satisfação do cliente. Além disso, possuo experiência como **Desenvolvedor de Chatbot**, utilizando diversas APIs conhecidas no mercado para criar soluções de automação e atendimento.
 
