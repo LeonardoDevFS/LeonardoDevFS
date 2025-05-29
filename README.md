@@ -22,7 +22,9 @@ Com 22 anos, trago uma combinação de formação técnica e experiência práti
 
 Tenho um vasto conhecimento como **Analista de Suporte**, com vivência em ambientes dinâmicos e foco na satisfação do cliente. Além disso, possuo experiência como **Desenvolvedor de Chatbot**, utilizando diversas APIs conhecidas no mercado para criar soluções de automação e atendimento.
 
-Atualmente, estou em busca de uma **nova oportunidade profissional como Analista de Suporte**, onde possa aplicar meus conhecimentos e continuar crescendo.
+Atualmente, estou em busca de uma **nova oportunidade profissional como Analista de Suporte**, onde possa aplicar meus conhecimentos e continuar crescendo.}
+
+* 😶‍🌫️ **Meu Portfolio:** (https://portfolioleonardojcarmo.netlify.app/).
 
 ---
 
