@@ -37,10 +37,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
     * `SPDATA`
     * `Vektor`
     * `EPACS`
-* **Monitoramento e Infraestrutura:**
-    * `ZABBIX`
-    * `Grafana`
-    * `Prometheus`
 * **Sistemas de Ticketing e Gestão de Serviços:**
     * `JIRA Service Management`
     * `Zendesk`
@@ -58,12 +54,11 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
     * `Conceitos TCP/IP`
     * `Troubleshooting DNS, DHCP`
 * **Bancos de Dados (para consulta e diagnóstico):**
-    * `SQL (consultas básicas/intermediárias em MySQL, SQL Server, PostgreSQL)`
+    * `SQL (consultas básicas/intermediárias/avançadas em MySQL, SQL Server, PostgreSQL)`
 * **Outros Conhecimentos e Práticas:**
-    * `Metodologia ITIL (Foundation)`
     * `Criação e Manutenção de Documentação Técnica / FAQs`
     * `Diagnóstico e Resolução de Problemas de Hardware e Software`
-    * `Suporte Técnico Nível 1, 2 e 3`
+    * `Suporte Técnico Nível 1`
     * `Excelente Atendimento ao Cliente`
     * `Gerenciamento de Chamados e SLAs`
 
