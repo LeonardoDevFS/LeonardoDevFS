@@ -13,7 +13,7 @@ Sou um profissional de tecnologia apaixonado por solucionar problemas e desenvol
 
 Com 22 anos, trago uma combinação de formação técnica e experiência prática:
 
-* 💼 **Trabalho:** Analista de Suporte.
+* 💼 **Trabalho:** Analista de Redes.
 * 👨‍💻 **Cursando:** Profissionalizante em Engenharia Front-End na Escola Britânica de Artes Criativas e Tecnologia.
 * 🎓 **Formado:** Técnico em Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais/Universidade Cesumar.
 * 👨‍💻 **Cursando:** Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Cesumar.
@@ -21,8 +21,6 @@ Com 22 anos, trago uma combinação de formação técnica e experiência práti
 
 
 Tenho um vasto conhecimento como **Analista de Suporte**, com vivência em ambientes dinâmicos e foco na satisfação do cliente. Além disso, possuo experiência como **Desenvolvedor de Chatbot**, utilizando diversas APIs conhecidas no mercado para criar soluções de automação e atendimento.
-
-Atualmente, estou em busca de uma **nova oportunidade profissional como Analista de Suporte**, onde possa aplicar meus conhecimentos e continuar crescendo.}
 
 * 😶‍🌫️ **Meu Portfolio:** (https://portfolioleonardojcarmo.netlify.app/).
 
